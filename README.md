@@ -1,4 +1,4 @@
-###Project Title - K-Nearest Neighbors (KNN) Classifier for Predicting Diabetes
+ ##### Project Title - K-Nearest Neighbors (KNN) Classifier for Predicting Diabetes
 
 ### Project Overview:
 This study applies the K-Nearest Neighbours (KNN) classifier to the Pima Indians Diabetes Database in order to predict the onset of diabetes. The dataset consists of one target variable (Outcome) that indicates if an individual has diabetes (1) or not (0), together with a number of medical predictor variables.
